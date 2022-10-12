@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\AppPisaMx\AppPisaMx\bin\Debug\AppPisaMx.exe.config
+C:\Users\Lenovo\source\repos\AppPisaMx\AppPisaMx\bin\Debug\AppPisaMx.exe.manifest
+C:\Users\Lenovo\source\repos\AppPisaMx\AppPisaMx\bin\Debug\AppPisaMx.application
+C:\Users\Lenovo\source\repos\AppPisaMx\AppPisaMx\bin\Debug\AppPisaMx.exe
+C:\Users\Lenovo\source\repos\AppPisaMx\AppPisaMx\bin\Debug\AppPisaMx.pdb
+C:\Users\Lenovo\source\repos\AppPisaMx\AppPisaMx\obj\Debug\AppPisaMx.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AppPisaMx\AppPisaMx\obj\Debug\AppPisaMx.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\AppPisaMx\AppPisaMx\obj\Debug\AppPisaMx.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AppPisaMx\AppPisaMx\obj\Debug\AppPisaMx.exe.manifest
+C:\Users\Lenovo\source\repos\AppPisaMx\AppPisaMx\obj\Debug\AppPisaMx.application
+C:\Users\Lenovo\source\repos\AppPisaMx\AppPisaMx\obj\Debug\AppPisaMx.exe
+C:\Users\Lenovo\source\repos\AppPisaMx\AppPisaMx\obj\Debug\AppPisaMx.pdb
